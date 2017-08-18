@@ -19,7 +19,7 @@
     "tag": "v3.5.0",
     "submodules": true
   },
-  "requires_arc": true,
+  "requires_arc": false,
   "platforms": {
     "osx": "10.8",
     "ios": "5.1.1"
