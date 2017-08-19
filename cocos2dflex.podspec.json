@@ -56,7 +56,7 @@
       ],
       "header_mappings_dir": "external",
       "xcconfig": {
-        "HEADER_SEARCH_PATHS": "\"$(PODS_ROOT)/Headers/cocos2d/Chipmunk/include/\" \"$(PODS_ROOT)/Headers/cocos2d/Chipmunk/objectivec/include/\""
+        "HEADER_SEARCH_PATHS": "\"$(PODS_ROOT)/cocos2d/external/Chipmunk/objectivec/include/\" \"$(PODS_ROOT)/cocos2d/external/Chipmunk/include/\""
       }
     }
   ]
